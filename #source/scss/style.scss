@@ -5,13 +5,14 @@ body {
 }
 
 .block-form {
-
+	background: #000;
 	&__input {
+		background: #fff;
 	}
 }
 .checkbox {
+	color: #222;
 }
-
 
 // ! Ты кто
 // todo: я?
